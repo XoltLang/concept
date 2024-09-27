@@ -13,7 +13,7 @@ We would like to express our gratitude to the following individuals, tools, and 
 
 ## Ulyana Kuznetsova (❤️):
 
-- The person I truly love, and she also gave me my first psychosis. I planned to name the language after her (check the concept of the language, not XVM), but then it went another way. Anyway, kiss ♡ (￣З￣). I hope she won't consider it de-anonymization or an insult (probably not, and sorry again, Ulya) :T
+- The person I truly love, and she also gave me my first psychosis. I planned to name the language after her , but then it went another way. Anyway, kiss ♡ (￣З￣). I hope she won't consider it de-anonymization or an insult (probably not, and sorry again, Ulya) :T
 
 ## Big Thanks:
 
