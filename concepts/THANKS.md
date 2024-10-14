@@ -11,10 +11,6 @@ We would like to express our gratitude to the following individuals, tools, and 
 
 - **Russian Government**: You know, RKN went to hell, and overall I laughed at the attempts of import substitution, so thanks for the high prices and inspiration.
 
-## Ulyana Kuznetsova (❤️):
-
-- The person I truly love, and she also gave me my first psychosis. I planned to name the language after her , but then it went another way. Anyway, kiss ♡ (￣З￣). I hope she won't consider it de-anonymization or an insult (probably not, and sorry again, Ulya) :T
-
 ## Big Thanks:
 
 - **Java**: For the idea of bytecode and JVM (in my case and language: XVM). Thanks to Sun Microsystems for the wonderful language, and I hope someone from them will read this someday (which is unlikely :), I pray for your hearts :D
