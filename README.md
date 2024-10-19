@@ -4,6 +4,5 @@
 
 ## Concepts
 
-- [Xolt Virtual Machine Concept](/concepts/xvm/xvm.md)
 - [Xolt Language Concept](/concepts/xolt/xolt.md)
 - [Thanks](/concepts/THANKS.md)
